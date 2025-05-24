@@ -139,4 +139,4 @@ Dự án sử dụng cho mục đích học tập. Có thể chỉnh sửa và t
 ## 👨‍💻 Tác giả
 
 Ngô Tuấn Minh – Lớp Công nghệ Thông Tin 1606
-Trường Đại học Đại Học Đại Nam
+Trường Đại học Đại Nam
